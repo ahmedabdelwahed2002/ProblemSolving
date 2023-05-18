@@ -1,0 +1,3 @@
+D:/term 6/Data Structures 2/prim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/term 6/Data Structures 2/prim/cmake-build-debug/CMakeFiles/prim.dir
+D:/term 6/Data Structures 2/prim/cmake-build-debug/CMakeFiles/edit_cache.dir
